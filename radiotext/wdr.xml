@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	
+<root xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<item>
+		<dc:title>1Live</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_1live.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>EinsLiveDiggi</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_1live_diggi.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>WDR2</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_wdr2.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>WDR3</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_wdr3.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>WDR4</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_wdr4.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>WDR5</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_wdr5.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>Cosmo</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_fhe.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>KiRaKa</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_kiraka.txt</dc:relation>
+	</item>
+	<item>
+		<dc:title>Event</dc:title>
+		<dc:relation>http://www.wdr.de/radio/radiotext/streamtitle_event.txt</dc:relation>
+	</item>
+</root>
